@@ -1,6 +1,6 @@
 # Market-Management-System-
 
-Here are my teammates_
+I'm working with:
 
 https://github.com/sabiharummanmedha
 
