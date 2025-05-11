@@ -26,7 +26,7 @@ This C++ program implements a simple market management system that allows users 
    - Sell products (reduces quantity, records transaction)
    - View selling history with timestamps
 
-3. **Inventory Tracking:
+3. Inventory Tracking:
    - Count total number of products in stock
    - Track product quantities and automatically remove items when stock reaches zero
 
